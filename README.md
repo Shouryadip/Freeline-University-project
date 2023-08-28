@@ -3,7 +3,8 @@
 ![abc](https://github.com/Shouryadip/Freeline-University-project/assets/143379528/881c445d-93e9-4e15-aa1f-2e4c30064122)
 
                                               India's Biggest University Portal
-                            Demo video: https://github.com/Shouryadip/Freeline-University-project/assets/143379528/9865e513-0220-42e5-aa89-0f06c420efdf
+                            Demo video: 
+                            https://github.com/Shouryadip/Freeline-University-project/assets/143379528/9865e513-0220-42e5-aa89-0f06c420efdf
 
 *Introduction:*
   - Welcome users to the Education Web Page.
