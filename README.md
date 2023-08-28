@@ -18,12 +18,12 @@
               innovative teaching methods and best practices. Consider including articles or blog posts on modern                
               teaching techniques.
               
-- *Contributions:*
+-🤝 *Contributions:*
   - Encourage users to contribute articles, tutorials, or resources.
   - Guidelines for submitting content and maintaining quality standards.
   - Recognize and appreciate contributors through dedicated sections.
 
- *Contact and Support:*
+ 📞*Contact and Support:*
   - Clear contact information for users to reach out with queries.
   - Links to social media profiles for further engagement.
   - Technical support options for any issues encountered on the website.
