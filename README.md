@@ -4,7 +4,7 @@
 
                                               India's Biggest University Portal
                             Demo video: 
-                            https://github.com/Shouryadip/Freeline-University-project/assets/143379528/9865e513-0220-42e5-aa89-0f06c420efdf
+                            https://github.com/Shouryadip/Freeline-University-project/assets/143379528/5bd98781-7105-4188-9aec-355e7701eb59
 
 *Introduction:*
   - Welcome users to the Education Web Page.
